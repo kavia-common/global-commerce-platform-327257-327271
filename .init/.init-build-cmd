@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run lint && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/global-commerce-platform-327257-327271/ecommerce_web_frontend"
+}
